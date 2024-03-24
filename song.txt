@@ -2,3 +2,5 @@ My first song
 second line
 
 feature branch commit first
+
+feature branch commit second
